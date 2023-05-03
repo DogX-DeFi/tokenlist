@@ -15,6 +15,14 @@
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/DogX-DeFi/tokenlist/main/src/images/j2usd.png"
   },
+    {
+    "name": "WTARO",
+    "symbol": "WTARO",
+    "address": "0x885d96761AEdBf6dd8Be844C8a8C8A37c6045847",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/DogX-DeFi/tokenlist/main/src/images/taro.png"
+  },
   {
     "name": "PROMPTKA POINT 1",
     "symbol": "PKA1",

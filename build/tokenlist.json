@@ -1,10 +1,10 @@
 {
   "name": "DogX Tokens List",
-  "timestamp": "2023-05-03T06:53:08.567Z",
+  "timestamp": "2023-05-03T16:45:43.692Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/DogX-DeFi/tokenlist/main/src/images/dogx.png",
@@ -988,6 +988,14 @@
       "chainId": 35011,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/radars.png"
+    },
+    {
+      "name": "WTARO",
+      "symbol": "WTARO",
+      "address": "0x885d96761AEdBf6dd8Be844C8a8C8A37c6045847",
+      "chainId": 35011,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DogX-DeFi/tokenlist/main/src/images/taro.png"
     },
     {
       "name": "MEO",
