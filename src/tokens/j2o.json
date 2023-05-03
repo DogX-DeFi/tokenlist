@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png"
   },
   {
+    "name": "J2USD",
+    "symbol": "J2USD",
+    "address": "0x993eD77415913fB299fE9d543702b40aC75F6575",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/DogX-DeFi/tokenlist/main/src/images/j2usd.png"
+  },
+  {
     "name": "PROMPTKA POINT 1",
     "symbol": "PKA1",
     "address": "0xf724d6D61aE68ca8df356b9FB6583bfEE5ABAe8c",

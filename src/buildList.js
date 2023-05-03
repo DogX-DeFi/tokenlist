@@ -32,7 +32,7 @@ const j2o = require("./tokens/j2o.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "PointKA Tokens List",
+    name: "DogX Tokens List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
