@@ -41,8 +41,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png",
-    keywords: ["pka", "default"],
+      "https://raw.githubusercontent.com/DogX-DeFi/tokenlist/main/src/images/dogx.png",
+    keywords: ["dogx", "default"],
     tokens: [
       ...j2o,
       ...bkc,

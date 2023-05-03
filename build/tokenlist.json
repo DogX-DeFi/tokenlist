@@ -1,15 +1,15 @@
 {
   "name": "DogX Tokens List",
-  "timestamp": "2023-05-03T06:41:10.134Z",
+  "timestamp": "2023-05-03T06:53:08.567Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png",
+  "logoURI": "https://raw.githubusercontent.com/DogX-DeFi/tokenlist/main/src/images/dogx.png",
   "keywords": [
-    "pka",
+    "dogx",
     "default"
   ],
   "tokens": [
