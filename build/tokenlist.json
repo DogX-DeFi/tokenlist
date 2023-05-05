@@ -1,6 +1,6 @@
 {
   "name": "DogX Tokens List",
-  "timestamp": "2023-05-03T16:45:43.692Z",
+  "timestamp": "2023-05-05T08:57:07.048Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -846,36 +846,12 @@
       "logoURI": "https://bscscan.com/token/images/busd_32.png"
     },
     {
-      "name": "JDAI",
-      "symbol": "JDAI",
-      "address": "0x940c30fe05C78A44BDf1D623816dC25233849469",
+      "name": "DUSD",
+      "symbol": "DUSD",
+      "address": "0xf62Ff625A8E8c07f8750C1ce2E623f0bCDc1100F",
       "chainId": 3501,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/jdai.png"
-    },
-    {
-      "name": "MEO A",
-      "symbol": "MEOA",
-      "address": "0xa0760C3D3e65994696784459014D116c5e50cef5",
-      "chainId": 3501,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meoa.png"
-    },
-    {
-      "name": "MEO B",
-      "symbol": "MEOB",
-      "address": "0x4d918B9B7Bb32Eca3b16317566174afE089E8FeB",
-      "chainId": 3501,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meob.png"
-    },
-    {
-      "name": "MEO C",
-      "symbol": "MEOC",
-      "address": "0x8eF7cF9443b1245F3380DE5B496d4BAFd8B3a76C",
-      "chainId": 3501,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/meoc.png"
+      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/dogx.png"
     },
     {
       "name": "Wrapped JFIN",
