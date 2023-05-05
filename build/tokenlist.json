@@ -1,6 +1,6 @@
 {
   "name": "DogX Tokens List",
-  "timestamp": "2023-05-05T09:36:43.185Z",
+  "timestamp": "2023-05-05T11:25:53.136Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -844,6 +844,14 @@
       "chainId": 3501,
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "name": "DOGX",
+      "symbol": "DOGX",
+      "address": "0x6F7e3bB0abF276ae62602B9e92690F76C68Fb566",
+      "chainId": 3501,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dogx.png"
     },
     {
       "name": "DUSD",

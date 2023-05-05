@@ -22,5 +22,13 @@
     "chainId": 3501,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dusd.png"
+  },
+  {
+    "name": "DOGX",
+    "symbol": "DOGX",
+    "address": "0x6F7e3bB0abF276ae62602B9e92690F76C68Fb566",
+    "chainId": 3501,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dogx.png"
   }
 ]
