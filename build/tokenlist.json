@@ -1,6 +1,6 @@
 {
   "name": "DogX Tokens List",
-  "timestamp": "2023-05-05T08:57:07.048Z",
+  "timestamp": "2023-05-05T09:26:37.244Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -851,7 +851,7 @@
       "address": "0xf62Ff625A8E8c07f8750C1ce2E623f0bCDc1100F",
       "chainId": 3501,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/dogx.png"
+      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/dusd.png"
     },
     {
       "name": "Wrapped JFIN",
