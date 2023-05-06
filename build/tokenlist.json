@@ -1,6 +1,6 @@
 {
   "name": "DogX Tokens List",
-  "timestamp": "2023-05-05T11:25:53.136Z",
+  "timestamp": "2023-05-06T04:18:16.081Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -924,6 +924,22 @@
       "chainId": 35011,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/clp.png"
+    },
+    {
+      "name": "DOGX",
+      "symbol": "DOGX",
+      "address": "0xe3e21bbE234B0913BA1ad119CCf17dF484a4b0eB",
+      "chainId": 35011,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dogx.png"
+    },
+    {
+      "name": "DUSD",
+      "symbol": "DUSD",
+      "address": "0x483D9F7Af8eaBb808865aa30C6b45560eD10D4DF",
+      "chainId": 35011,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dusd.png"
     },
     {
       "name": "J2USD",

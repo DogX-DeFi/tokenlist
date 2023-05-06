@@ -8,6 +8,22 @@
     "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png"
   },
   {
+    "name": "DUSD",
+    "symbol": "DUSD",
+    "address": "0x483D9F7Af8eaBb808865aa30C6b45560eD10D4DF",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dusd.png"
+  },
+  {
+    "name": "DOGX",
+    "symbol": "DOGX",
+    "address": "0xe3e21bbE234B0913BA1ad119CCf17dF484a4b0eB",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dogx.png"
+  },
+  {
     "name": "J2USD",
     "symbol": "J2USD",
     "address": "0x993eD77415913fB299fE9d543702b40aC75F6575",
