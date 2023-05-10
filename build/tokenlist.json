@@ -1,10 +1,10 @@
 {
   "name": "DogX Tokens List",
-  "timestamp": "2023-05-06T16:10:59.742Z",
+  "timestamp": "2023-05-10T13:29:54.074Z",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/DogX-DeFi/tokenlist/main/src/images/dogx.png",
@@ -848,7 +848,7 @@
     {
       "name": "DOGX",
       "symbol": "DOGX",
-      "address": "0x6F7e3bB0abF276ae62602B9e92690F76C68Fb566",
+      "address": "0x303ff2aa617917b466d1b2b228859609611ecfe6",
       "chainId": 3501,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dogx.png"
@@ -856,7 +856,7 @@
     {
       "name": "DUSD",
       "symbol": "DUSD",
-      "address": "0xf62Ff625A8E8c07f8750C1ce2E623f0bCDc1100F",
+      "address": "0xa33af47127e63f708e6e4ea88ffdb468dfd23b6b",
       "chainId": 3501,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dusd.png"
@@ -928,7 +928,7 @@
     {
       "name": "DOGX",
       "symbol": "DOGX",
-      "address": "0xe3e21bbE234B0913BA1ad119CCf17dF484a4b0eB",
+      "address": "0x303ff2aa617917b466d1b2b228859609611ecfe6",
       "chainId": 35011,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dogx.png"
@@ -936,7 +936,7 @@
     {
       "name": "DUSD",
       "symbol": "DUSD",
-      "address": "0x483D9F7Af8eaBb808865aa30C6b45560eD10D4DF",
+      "address": "0xa33af47127e63f708e6e4ea88ffdb468dfd23b6b",
       "chainId": 35011,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dusd.png"

@@ -10,7 +10,7 @@
   {
     "name": "DUSD",
     "symbol": "DUSD",
-    "address": "0x483D9F7Af8eaBb808865aa30C6b45560eD10D4DF",
+    "address": "0xa33af47127e63f708e6e4ea88ffdb468dfd23b6b",
     "chainId": 35011,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dusd.png"
@@ -18,7 +18,7 @@
   {
     "name": "DOGX",
     "symbol": "DOGX",
-    "address": "0xe3e21bbE234B0913BA1ad119CCf17dF484a4b0eB",
+    "address": "0x303ff2aa617917b466d1b2b228859609611ecfe6",
     "chainId": 35011,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dogx.png"
