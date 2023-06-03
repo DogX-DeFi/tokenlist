@@ -1,6 +1,6 @@
 {
   "name": "DogX Tokens List",
-  "timestamp": "2023-06-03T15:38:45.376Z",
+  "timestamp": "2023-06-03T15:40:24.263Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -955,7 +955,7 @@
       "address": "0x11F64200BE564B500D1B8A3a0344D70FAae2332d",
       "chainId": 35011,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/jlina.png"
+      "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/jlina.png"
     },
     {
       "name": "MVP COIN",
