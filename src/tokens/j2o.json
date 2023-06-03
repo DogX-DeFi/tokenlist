@@ -8,6 +8,14 @@
     "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/pka.png"
   },
   {
+    "name": "JLINA",
+    "symbol": "JLINA",
+    "address": "0x11F64200BE564B500D1B8A3a0344D70FAae2332d",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/prompttoken/tokenlist/main/src/images/jlina.png"
+  },
+  {
     "name": "DUSD",
     "symbol": "DUSD",
     "address": "0xa33af47127e63f708e6e4ea88ffdb468dfd23b6b",
