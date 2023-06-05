@@ -1,6 +1,6 @@
 {
   "name": "DogX Tokens List",
-  "timestamp": "2023-06-03T15:40:24.263Z",
+  "timestamp": "2023-06-05T15:51:34.037Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -940,6 +940,14 @@
       "chainId": 35011,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dusd.png"
+    },
+    {
+      "name": "EZPOINTS",
+      "symbol": "EZP",
+      "address": "0x1ADE2aA530D9Bf7ae2D22B183CE11822bfeA90fA",
+      "chainId": 35011,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/ezp.png"
     },
     {
       "name": "J2USD",

@@ -16,6 +16,14 @@
     "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/jlina.png"
   },
   {
+    "name": "EZPOINTS",
+    "symbol": "EZP",
+    "address": "0x1ADE2aA530D9Bf7ae2D22B183CE11822bfeA90fA",
+    "chainId": 35011,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/ezp.png"
+  },
+  {
     "name": "DUSD",
     "symbol": "DUSD",
     "address": "0xa33af47127e63f708e6e4ea88ffdb468dfd23b6b",
