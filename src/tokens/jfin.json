@@ -2,7 +2,7 @@
   {
     "name": "Wrapped JFIN",
     "symbol": "WJFIN",
-    "address": "0xd2feb187ed1689938b5555af575e79ee35707940",
+    "address": "0x99999999990FC47611b74827486218f3398A4abD",
     "chainId": 3501,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/jfin.png"
@@ -10,18 +10,10 @@
   {
     "name": "BUSD",
     "symbol": "BUSD",
-    "address": "0x6e0bae6A7b30af12Ea81aF0e01f9F34CDE47311D",
+    "address": "0x446B8153B5D13d8639F82F2CF2B4F3D48D52bb10",
     "chainId": 3501,
     "decimals": 18,
     "logoURI": "https://bscscan.com/token/images/busd_32.png"
-  },
-  {
-    "name": "DUSD",
-    "symbol": "DUSD",
-    "address": "0xa33af47127e63f708e6e4ea88ffdb468dfd23b6b",
-    "chainId": 3501,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/DogX-Defi/tokenlist/main/src/images/dusd.png"
   },
   {
     "name": "DOGX",
